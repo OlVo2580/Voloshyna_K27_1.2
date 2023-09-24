@@ -1,0 +1,1 @@
+C:\Users\volos\OneDrive\Рабочий стол\К-27\ООП\ConsoleApp2\MauiApp1.2.3\MauiApp1.2.3.csproj;x64
